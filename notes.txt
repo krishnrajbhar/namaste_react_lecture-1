@@ -1,0 +1,21 @@
+coding assignment --- (1)
+
+
+set up all the tools in your laptop -(done)
+    vs code -(done)
+    chrome -(done)
+    extensions of chrome-(done)
+create a new git repository
+build your first hello world program using---(done)
+    html-(done)
+    javascript using dom manipulation-(done)
+    using react -(done)
+        use cdn links -(done)
+        create an element-(done)
+        create nested react element -(done)
+push code to github (theory as well as code- (done)
+learn about arrow functions before the next class- (done)
+
+coding assignment ---- (2)
+
+
